@@ -1,0 +1,1 @@
+nam1=input("Enter your name: john")
