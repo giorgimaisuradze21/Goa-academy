@@ -1,14 +1,15 @@
 #Task 1
-#num1=89
-#num2=65
-#print(num1 > num2 > num3) #boolean #the majority
-#print(num1 < num2 < num3) #boolean #lack
-#print(num1 == num2 == num3) #boolean #equals
-#print(num1  - num2 - num3) #integer #minus
-#print(num1 >= num2 >= num3) #boolean #greater or equal
-#print(num1 <= num2 <= num3) #boolean #less or equal to
-#print(num1 ** num2 ** num3) #integer #grading
-#print(num1 / num2 / num3) #float   
+num1=89
+num2=39
+num3=21
+print(num1 > num2 > num3) #boolean #the majority
+print(num1 < num2 < num3) #boolean #lack
+print(num1 == num2 == num3) #boolean #equals
+print(num1  - num2 - num3) #integer #minus
+print(num1 >= num2 >= num3) #boolean #greater or equal
+print(num1 <= num2 <= num3) #boolean #less or equal to
+print(num1 ** num2 ** num3) #integer #grading
+print(num1 / num2 / num3) #float   
 
 
 
